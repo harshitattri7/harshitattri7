@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building models using different ML Algos<br>I'm looking to collaborate on building highly tuned machine learning application <br>I'm looking for help with figuring out how to tunning models and efficient pre-precessing<br>I'm learning Data Structures Nowadays<br>Ask me about python and machine learning <br>Fun Fact : I love squatting (PR-120kgs, BW-70)
+I'm currently working on building models using different ML Algos<br>I'm looking to collaborate on building highly tuned machine learning application <br>I'm looking for help with figuring out how to tune models and efficient pre-precessing<br>I'm learning Data Structures Nowadays<br>Ask me about python and machine learning <br>Fun Fact : I love squatting (PR-120kgs, BW-70)
 
 
 ## 🌐 Socials:
